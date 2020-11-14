@@ -1,2 +1,2 @@
 # VBA-challenge
-VBA Stocks Challenge (week2)
+VBA Stocks Challenge
